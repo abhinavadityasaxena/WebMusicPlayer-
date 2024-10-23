@@ -51,5 +51,5 @@ https://www.loom.com/share/30bf5f4c0e5c4ef99621da8bafd22952?sid=1429808b-1235-4d
 <p>Contributions are welcome! Please fork this repository and submit a pull request with your changes. Make sure to follow the coding standards and include tests for new features.</p>
 
 <h2>Contact</h2>
-<p><strong>Author:</strong> Apoorv Srivastava</p>
-<p>For any questions or feedback, please contact me at apoorvsrivastava2121@gmail.com.</p>
+<p><strong>Author:</strong> Abhinavaditya Saxena </p>
+<p>For any questions or feedback, please contact me at saxenaabhinavaditya@gmail.com.</p>
